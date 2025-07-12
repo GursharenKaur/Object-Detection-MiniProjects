@@ -2,6 +2,11 @@
 
 Simple Python scripts that detects motion using a webcam feed by comparing video frames in real-time. Useful for basic surveillance, monitoring, or learning computer vision concepts.
 
+## Projects:
+- Moving Object detection
+- Face detection
+- Object detection based on Colour
+---
 
 ## Install dependencies: 
 ### (on Terminal)
